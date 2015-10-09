@@ -1,0 +1,2201 @@
+-------------------Start process-------------------
+output.log file created.
+---------------create catalog html file-----------------
+
+---------------create catalog file-----------------
+
+---------------start read dir-----------------
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/5.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/1.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/3.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/1.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/3.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/2.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/8.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/FallColors.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 0: Success, parent thread: 139664249829120
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/2.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/8.jpg
+FileId: 796817
+FileName: 8.jpg
+FileType: jpg
+Size: 149190
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664249829120
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/FallColors.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 1: Success, parent thread: 139664249829120
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/2.png
+FileId: 796816
+FileName: 2.png
+FileType: png
+Size: 196709
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664249829120
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/8.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/FallColors.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 2: Success, parent thread: 139664249829120
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/2.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/8.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/FallColors.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 3: Success, parent thread: 139664249829120
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/2.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/8.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1/FallColors.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 4: Success, parent thread: 139664249829120
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/I like it.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/1.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/7.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/IgnoreMe.html
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/12.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/11.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 0: Success, parent thread: 139664241436416
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/1.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/7.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/IgnoreMe.html
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/12.jpg
+FileId: 796832
+FileName: 12.jpg
+FileType: jpg
+Size: 560779
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664241436416
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/11.jpg
+FileId: 796831
+FileName: 11.jpg
+FileType: jpg
+Size: 701071
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664241436416
+Joined thread 1: Success, parent thread: 139664241436416
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/1.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/7.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/IgnoreMe.html
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/12.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/11.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 2: Success, parent thread: 139664241436416
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/1.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/7.bmp
+FileId: 796833
+FileName: 7.bmp
+FileType: bmp
+Size: 1440054
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664241436416
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/IgnoreMe.html
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/12.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/11.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 3: Success, parent thread: 139664241436416
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/1.gif
+FileId: 796830
+FileName: 1.gif
+FileType: gif
+Size: 52600
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664241436416
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/7.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/IgnoreMe.html
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/12.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1/11.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 4: Success, parent thread: 139664241436416
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/7.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/Copy (5) of IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/FallColors.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/IgnoreMe.html
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 0: Success, parent thread: 139664249829120
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/7.jpg
+FileId: 796822
+FileName: 7.jpg
+FileType: jpg
+Size: 29429
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664249829120
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/Copy (5) of IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/FallColors.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/IgnoreMe.html
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 1: Success, parent thread: 139664249829120
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/7.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/Copy (5) of IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/FallColors.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/IgnoreMe.html
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 2: Success, parent thread: 139664249829120
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/7.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/Copy (5) of IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/FallColors.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/IgnoreMe.html
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 3: Success, parent thread: 139664249829120
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/7.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/Copy (5) of IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/FallColors.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/IgnoreMe.html
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 4: Success, parent thread: 139664249829120
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/6.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/1.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 0: Success, parent thread: 139664258221824
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/I like it.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/6.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/1.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 1: Success, parent thread: 139664258221824
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/I like it.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/6.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/1.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 2: Success, parent thread: 139664258221824
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/I like it.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/6.bmp
+FileId: 796812
+FileName: 6.bmp
+FileType: bmp
+Size: 3932214
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664258221824
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/1.bmp
+FileId: 796811
+FileName: 1.bmp
+FileType: bmp
+Size: 17462
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664258221824
+Joined thread 3: Success, parent thread: 139664258221824
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/I like it.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/dir2
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/6.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1/1.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 4: Success, parent thread: 139664258221824
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/5.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/.DS_Store
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/4.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 0: Success, parent thread: 139664258221824
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/4.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 1: Success, parent thread: 139664258221824
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/4.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 2: Success, parent thread: 139664258221824
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/4.bmp
+FileId: 796842
+FileName: 4.bmp
+FileType: bmp
+Size: 138179
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664258221824
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 3: Success, parent thread: 139664258221824
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/4.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 4: Success, parent thread: 139664258221824
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 0: Success, parent thread: 139664266614528
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/3.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/5.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/.DS_Store
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 1: Success, parent thread: 139664266614528
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/3.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/5.png
+FileId: 796807
+FileName: 5.png
+FileType: png
+Size: 214842
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664266614528
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/.DS_Store
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 2: Success, parent thread: 139664266614528
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/3.bmp
+FileId: 796806
+FileName: 3.bmp
+FileType: bmp
+Size: 44026
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664266614528
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/5.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/.DS_Store
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 3: Success, parent thread: 139664266614528
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/3.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/5.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/.DS_Store
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/dir2
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 4: Success, parent thread: 139664266614528
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/3.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/.DS_Store
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/2.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/2.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/Copy (5) of IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/IgnoreMe.html
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/6.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 0: Success, parent thread: 139664275007232
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/1.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/3.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/.DS_Store
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/2.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/2.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/Copy (5) of IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/IgnoreMe.html
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/6.jpg
+FileId: 796800
+FileName: 6.jpg
+FileType: jpg
+Size: 678292
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664275007232
+Joined thread 1: Success, parent thread: 139664275007232
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/1.png
+FileId: 796796
+FileName: 1.png
+FileType: png
+Size: 690295
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664275007232
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/3.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/.DS_Store
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/2.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/2.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/Copy (5) of IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/IgnoreMe.html
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/6.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 2: Success, parent thread: 139664275007232
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/1.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/3.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/.DS_Store
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/2.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/2.bmp
+FileId: 796797
+FileName: 2.bmp
+FileType: bmp
+Size: 173529
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664275007232
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/Copy (5) of IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/IgnoreMe.html
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/6.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 3: Success, parent thread: 139664275007232
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/1.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/3.gif
+FileId: 796799
+FileName: 3.gif
+FileType: gif
+Size: 122180
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664275007232
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/.DS_Store
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/2.gif
+FileId: 796798
+FileName: 2.gif
+FileType: gif
+Size: 160455
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664275007232
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/2.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/Copy (5) of IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/IgnoreMe.html
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1/6.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 4: Success, parent thread: 139664275007232
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/.DS_Store
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 0: Success, parent thread: 139664283399936
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/3.jpg
+FileId: 664322
+FileName: 3.jpg
+FileType: jpg
+Size: 265766
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664283399936
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/.DS_Store
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 1: Success, parent thread: 139664283399936
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/3.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/.DS_Store
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 2: Success, parent thread: 139664283399936
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/3.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/.DS_Store
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 3: Success, parent thread: 139664283399936
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/3.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/.DS_Store
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 4: Success, parent thread: 139664283399936
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/Copy (5) of IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/2.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/I hate Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/5.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/10.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/4.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 0: Success, parent thread: 139664266614528
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/5.jpg
+FileId: 927103
+FileName: 5.jpg
+FileType: jpg
+Size: 218914
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664266614528
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/10.jpg
+FileId: 927101
+FileName: 10.jpg
+FileType: jpg
+Size: 118508
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664266614528
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/4.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 1: Success, parent thread: 139664266614528
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/5.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/10.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/4.png
+FileId: 927102
+FileName: 4.png
+FileType: png
+Size: 377218
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664266614528
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 2: Success, parent thread: 139664266614528
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/5.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/10.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/4.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 3: Success, parent thread: 139664266614528
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/5.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/10.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/4.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 4: Success, parent thread: 139664266614528
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/9.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/4.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/3.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 0: Success, parent thread: 139664275007232
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/I hate Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/9.jpg
+FileId: 927097
+FileName: 9.jpg
+FileType: jpg
+Size: 141750
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664275007232
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/4.jpg
+FileId: 927096
+FileName: 4.jpg
+FileType: jpg
+Size: 72357
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664275007232
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/3.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 1: Success, parent thread: 139664275007232
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/I hate Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/9.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/4.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/3.png
+FileId: 927095
+FileName: 3.png
+FileType: png
+Size: 1622832
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664275007232
+Joined thread 2: Success, parent thread: 139664275007232
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/I hate Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/9.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/4.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/3.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 3: Success, parent thread: 139664275007232
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/I hate Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/9.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/4.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1/3.png
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 4: Success, parent thread: 139664275007232
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/5.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/4.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/8.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 0: Success, parent thread: 139664283399936
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/5.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/4.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/8.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 1: Success, parent thread: 139664283399936
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/5.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/4.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/8.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 2: Success, parent thread: 139664283399936
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/5.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/4.gif
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/8.bmp
+FileId: 927090
+FileName: 8.bmp
+FileType: bmp
+Size: 1440054
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664283399936
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 3: Success, parent thread: 139664283399936
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/IgnoreMe.info
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/5.gif
+FileId: 927089
+FileName: 5.gif
+FileType: gif
+Size: 170761
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664283399936
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/helloWorld.c
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/Thumbs.db
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/4.gif
+FileId: 927088
+FileName: 4.gif
+FileType: gif
+Size: 382348
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664283399936
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/8.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2/hello.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 4: Success, parent thread: 139664283399936
+Joined thread 0: Success, parent thread: 139664362366720
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/5.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/1.jpg
+FileId: 664315
+FileName: 1.jpg
+FileType: jpg
+Size: 112912
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664362366720
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/Copy (5) of IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/2.jpg
+FileId: 664316
+FileName: 2.jpg
+FileType: jpg
+Size: 45321
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664362366720
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 1: Success, parent thread: 139664362366720
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/5.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/1.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/Copy (5) of IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/2.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 2: Success, parent thread: 139664362366720
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/5.bmp
+FileId: 664317
+FileName: 5.bmp
+FileType: bmp
+Size: 2359352
+TimeofModification: Thu Apr 30 23:58:21 2015
+ThreadId: 139664362366720
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/1.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/Copy (5) of IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/2.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 3: Success, parent thread: 139664362366720
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/5.bmp
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/I like Pizza.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/..
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/1.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir1
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/.
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/Copy (5) of IgnoreMe.txt
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/2.jpg
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+
+/////////////////////////START//////////////////////////
+/home/zixiao/4061/hw/hw4/A4/dir/dir2
+The file is not JPG, PNG, BMP, GIF file, skipped it.
+Joined thread 4: Success, parent thread: 139664362366720
+------------------add end to html file----------------
+------------------add end to catalog.log file----------------
+------------------add end to output.log file----------------
+ Process finish!!

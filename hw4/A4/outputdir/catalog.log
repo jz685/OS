@@ -1,0 +1,29 @@
+Log for variant 2
+
+------------------------------------------------
+Time    100 ms  #dir     0      #files  0
+Time    200 ms  #dir     0      #files  1
+Time    300 ms  #dir     1      #files  5
+Time    400 ms  #dir     3      #files  7
+Time    500 ms  #dir     5      #files  10
+Time    600 ms  #dir     5      #files  12
+Time    700 ms  #dir     5      #files  12
+Time    800 ms  #dir     6      #files  12
+Time    900 ms  #dir     6      #files  17
+Time    1000 ms  #dir     8      #files  18
+Time    1100 ms  #dir     9      #files  21
+Time    1200 ms  #dir     10      #files  24
+Time    1300 ms  #dir     11      #files  30
+
+Programme initiation: Mon May 04 17:22:05 GMT 2015
+
+Number of jpg files = 12
+Number of bmp files = 5
+Number of png files = 8
+Number of gif files = 5
+
+Total number of valid image files = 30
+
+Total time of execution = 13
+--------------------------------------
+number of threads created = 55

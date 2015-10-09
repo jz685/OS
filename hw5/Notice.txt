@@ -1,0 +1,14 @@
+downloaded images stores in subdirectory "images": created in current working directory of the "client"   program
+
+
+download.html: created in the current dir of "client" program
+	list the "names" of all downloaded files with "hyperlinks" to the "full size" images.
+	  Additionally,   “Checksum   match”   or   “Checksum   mismatch”   must   be   displayed  
+next to each filename   depending on the result of the   checksum   comparison.   (Note:   If,   for   a  
+particular file there is a checksum   mismatch, you do not need to provide   a   link   to   the   full size  
+image,   since   the   image   is   probably   corrupted).
+
+"catalog.csv" format: filename, size, checksum(filename has to be stripped to the last,
+use "provided API"(in "mad5_test.c") to compute "checksum")
+
+

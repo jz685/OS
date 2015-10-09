@@ -1,0 +1,220 @@
+#!/bin/csh
+
+# CSci4061 Spring 2015 Assignment 1
+# Name: Jia Zhang, Zixiao Wang
+# Student ID: 4388046, 5107014
+ 
+#$argv[1] is input_dir
+#$argv[2] is output_dir
+
+echo "Start script..."
+echo "------------------------------------------------------"
+## calculat
+@ len = $#argv
+echo "length of inputs = $#argv"
+
+## for checking if valid number of inputs are provided, if not, program terminated
+if ( $#argv < 3 ) then
+	echo "Not enough inputs, program needs an input-dir, and output-dir and at least one pattern"
+	goto done
+endif 
+echo ""
+
+
+## set input-dir and output-dir
+echo "Setting directories..."
+echo "------------------------------------------------------"
+set inputdir = $1
+echo "inputdir =  $1"
+set outputdir = $2
+echo "outputdir =  $2"
+
+
+## check whether directory that we used for input exists. If not , quit.
+## input file readbility test added -jia
+if ( ! -d $inputdir ) then 
+	echo "Input directory not found!"
+	goto done
+else if ( ! -r $inputdir ) then
+	echo "Input directory not readable!"
+	goto done
+else echo "Input directory: $inputdir exists"
+endif 
+
+## check whether directory that we used for output exists. If dir does not exist, create it.
+## output dir writeable test added -jia
+if ( ! -d $outputdir ) then 
+	echo "Output directory not found, system creates it!"
+	mkdir $outputdir
+	mkdir $outputdir/thumbs
+else 
+	echo "Output directory: $outputdir exists"
+	if ( ! -w $outputdir ) then
+		echo "Output directory not writeable!"
+		goto done
+	endif
+	if (! -d $outputdir/thumbs ) then
+		echo "thumbs does not exist, system creates it!"
+		mkdir $outputdir/thumbs
+	else 
+		echo "thumbs also exists"
+		if ( ! -w $outputdir/thumbs ) then
+			echo "thumbs directory not writeable!"
+			goto done
+		endif
+	endif
+endif
+echo ""
+
+echo "search for pic_name_xx.html"
+echo "------------------------------------------------------"
+# check wether html exists. if exists, replace it with a new one. if not, create it.
+if ( ! -e pic_name_xx.html) then
+	echo "pic_name_xx.html does not exist."
+	touch pic_name_xx.html
+	echo "<html><head><title>Test Images</title></head><body>" >> pic_name_xx.html
+else
+	echo "pic_name_xx.html already exist, replace it."
+	rm pic_name_xx.html
+	touch pic_name_xx.html
+	echo "<html><head><title>Test Images</title></head><body>" >> pic_name_xx.html
+endif 
+echo ""
+
+shift
+shift
+
+echo "start process..."
+echo "------------------------------------------------------"
+
+
+while ( $#argv )
+##	find first valid pattern to proceed
+	while ( "$1" !~ "*.gif" && "$1" !~ "*.tiff" && "$1" !~ "*.png" && $#argv )
+		echo "1st arguement is $1 now"
+		echo "$1 is not a valid pattern and skipped"
+		echo ""
+		shift
+	end 
+##	echo "total number of argv is $#argv"
+	echo "1st arguement is $1 now"
+	echo "Valid pattern found, start searching for files..."
+	if ( $#argv > 0 ) then
+		switch ("$1")
+		case "*.gif":
+			if ( `find $inputdir -name "$1"` == NULL) then 
+				echo "No image files match the pattern"
+			endif 
+##			echo "start foreach" 
+			foreach file ( `find $inputdir -name "$1"`)
+				##check for readibility
+				if ( -r $inputdir/`basename $file`) then
+					if ( ! -e $outputdir/`basename $file .gif| tr "a-z" "A-Z"`.jpg ) then
+						echo "$outputdir/`basename $file .gif| tr "a-z" "A-Z"`.jpg does not exist"
+						convert $file $outputdir/`basename $file .gif| tr "a-z" "A-Z"`.jpg
+						convert -resize 200x200 $file $outputdir/thumbs/`basename $file .gif| tr "a-z" "A-Z"`_thumb.jpg
+						echo "`basename $file .gif| tr "a-z" "A-Z"`.jpg converted"
+					else 
+						echo "`basename $file .gif| tr "a-z" "A-Z"`.jpg exists"
+						convert -resize 200x200 $file $outputdir/thumbs/`basename $file .gif| tr "a-z" "A-Z"`_thumb.jpg
+					endif
+					set temp1 = "./$outputdir/`basename $file .gif| tr "a-z" "A-Z"`.jpg"
+					set temp2 = "./$outputdir/thumbs/`basename $file .gif| tr "a-z" "A-Z"`_thumb.jpg"
+					echo "File name is :$temp1"
+					echo "File thumb is : $temp2"
+					echo -n '<a href="' >> pic_name_xx.html
+					echo -n "$temp1" >> pic_name_xx.html
+					echo -n '"><img src="' >> pic_name_xx.html
+					echo -n "$temp2" >> pic_name_xx.html
+					echo '"/></a>' >> pic_name_xx.html
+
+				else
+					echo 'file not readable'
+				endif
+
+			end
+			breaksw
+		case "*.tiff":
+			if ( `find $inputdir -name "$1"` == NULL) then 
+				echo "No image files match the pattern"
+			endif 
+			foreach file ( `find $inputdir -name "$1"`)
+				##check for readibility
+				if ( -r $inputdir/`basename $file`) then
+
+					if ( ! -e $outputdir/`basename $file .tiff| tr "a-z" "A-Z"`.jpg ) then
+						echo "$outputdir/`basename $file .tiff| tr "a-z" "A-Z"`.jpg does not exist"
+						convert $file $outputdir/`basename $file .tiff| tr "a-z" "A-Z"`.jpg
+						convert -resize 200x200 $file $outputdir/thumbs/`basename $file .tiff| tr "a-z" "A-Z"`_thumb.jpg
+						echo "`basename $file .tiff| tr "a-z" "A-Z"`.jpg and its thumbnail converted"
+					else 
+						echo "`basename $file .tiff| tr "a-z" "A-Z"`.jpg exists"
+						convert -resize 200x200 $file $outputdir/thumbs/`basename $file .tiff| tr "a-z" "A-Z"`_thumb.jpg
+					endif
+					set temp1 = "./$outputdir/`basename $file .tiff| tr "a-z" "A-Z"`.jpg"
+					set temp2 = "./$outputdir/thumbs/`basename $file .tiff| tr "a-z" "A-Z"`_thumb.jpg"
+					echo "File name is :$temp1"
+					echo "File thumb is : $temp2"
+					echo -n '<a href="' >> pic_name_xx.html
+					echo -n "$temp1" >> pic_name_xx.html
+					echo -n '"><img src="' >> pic_name_xx.html
+					echo -n "$temp2" >> pic_name_xx.html
+					echo '"/></a>' >> pic_name_xx.html
+
+				else
+					echo 'file not readable'
+				endif
+
+			end
+			breaksw
+		case "*.png":
+			if ( `find $inputdir -name "$1"` == NULL) then 
+				echo "No image files match the pattern"
+			endif 
+			foreach file ( `find $inputdir -name "$1"`)
+				##check for readibility
+				if ( -r $inputdir/`basename $file`) then
+
+					if ( ! -e $outputdir/`basename $file .png| tr "a-z" "A-Z"`.jpg ) then
+						echo "$outputdir/`basename $file .png| tr "a-z" "A-Z"`.jpg does not exist"
+						convert $file $outputdir/`basename $file .png| tr "a-z" "A-Z"`.jpg
+						convert -resize 200x200 $file $outputdir/thumbs/`basename $file .png| tr "a-z" "A-Z"`_thumb.jpg
+						echo "`basename $file .png| tr "a-z" "A-Z"`.jpg converted"
+					else 
+						echo "`basename $file .png| tr "a-z" "A-Z"`.jpg exists"
+						convert -resize 200x200 $file $outputdir/thumbs/`basename $file .png| tr "a-z" "A-Z"`_thumb.jpg
+					endif
+					set temp1 = "./$outputdir/`basename $file .png| tr "a-z" "A-Z"`.jpg"
+					set temp2 = "./$outputdir/thumbs/`basename $file .png| tr "a-z" "A-Z"`_thumb.jpg"
+					echo "File name is :$temp1"
+					echo "File thumb is : $temp2"
+					echo -n '<a href="' >> pic_name_xx.html
+					echo -n "$temp1" >> pic_name_xx.html
+					echo -n '"><img src="'
+					echo -n "$temp2" >> pic_name_xx.html
+					echo '"/></a>' >> pic_name_xx.html
+
+				else
+					echo 'file not readable'
+				endif
+			end
+			breaksw
+		endsw
+		echo ""
+		shift
+	endif
+end
+
+echo "</body></html>" >> pic_name_xx.html
+
+echo "Date is : `date`" >> pic_name_xx.html
+
+echo "Script Finished. ^_^"
+
+done:
+	exit 0
+
+error:
+	exit 1
+
+

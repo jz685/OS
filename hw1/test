@@ -1,0 +1,70 @@
+#!/bin/csh
+
+##	echo $#argv 
+#	echo $argv[1]
+#	echo $argv[2]
+#
+#	set inputdir = ./input_directory
+#
+#	mkdir xxxtest
+#	set outputdir = ./xxxtest
+#	echo $inputdir
+##	echo $outputdir
+
+## set inputdir = ./input_directory
+set inputdir = $1
+set outputdir = $2
+
+## check whether directory that we used for input exists. If not , quit.
+if ( ! -d $inputdir ) then 
+	echo "Input directory not found!"
+	goto done
+endif 
+
+## check whether directory that we used for output exists. If dir does not exist, create it.
+if ( ! -d $outputdir ) then 
+	echo "Output directory not found, system creates it!"
+	mkdir $outputdir
+endif
+
+cd $inputdir		## get into inputdir
+##	pwd
+##	ls
+set variable = `find . -name "*.jpg"`
+@ i = 1
+@ len = $#variable
+echo $i
+echo $len
+echo $variable
+
+while ( $i <= 5)
+	echo $variable[i]
+	cp $variable[i] $outputdir
+	@ i = $i + 1
+end
+
+cd ..
+
+##--------------------------------------------------------------------------------------------
+
+#!/bin/csh
+
+##	echo $#argv 
+##	echo "$argv[1]"
+
+	set inputdir = ./input_directory/
+##	mkdir xxxtest
+	set outputdir = ./xxxtest/
+##	echo $inputdir
+##	echo $outputdir
+
+while ($#argv >0) 
+	set variable = `find $inputdir -name "$argv[1]"`
+	echo $variable
+	foreach var (variable)
+		echo basename $var
+
+	echo $#argv
+	echo "$argv"
+	shift
+end
